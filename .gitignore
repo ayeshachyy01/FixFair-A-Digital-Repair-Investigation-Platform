@@ -1,0 +1,15 @@
+# python
+.venv/
+__pycache__/
+*.py[cod]
+
+# environment variables and secrets
+.env
+backend/.env
+
+# react dependencies and build files
+frontend/node_modules/
+frontend/dist/
+
+# editor settings
+.vscode/
